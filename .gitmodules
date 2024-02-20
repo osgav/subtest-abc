@@ -1,3 +1,4 @@
 [submodule "subtest-123"]
 	path = subtest-123
 	url = https://github.com/osgav/subtest-123
+	branch = main
